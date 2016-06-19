@@ -1,25 +1,7 @@
-# ReduxSimpleStarter
+# Simple book list app using React + redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a sample project that was built as part of this online React + Redux course https://www.udemy.com/react-redux/learn/v4/t/lecture/4419776
 
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+This is a very simple project that has a hard coded data set of 5 books, and allows
+for users to select from the list of books, and displays some basic information about
+the book. This project was for the purposes of being introduced to Redux concepts.
